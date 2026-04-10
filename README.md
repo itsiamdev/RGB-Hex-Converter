@@ -10,7 +10,7 @@ A simple and intuitive web tool to convert between RGB and Hex color codes. Perf
 - 🚀 Fast and lightweight
 
 ## 🌐 Live Demo
-Check out the live version here: [https://iam269.github.io/RGB-Hex-Converter/](https://iam269.github.io/RGB-Hex-Converter/)
+Check out the live version here: [https://itsiamdev.github.io/RGB-Hex-Converter/](https://itsiamdev.github.io/RGB-Hex-Converter/)
 
 ## 🛠️ Technologies Used
 - HTML5
